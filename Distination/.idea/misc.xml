@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.225" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/drawable/ic_baseline_airplanemode_active_24.xml" value="0.2515" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/drawable/ic_baseline_arrow_right_alt_24.xml" value="0.2515" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2515" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/drawable/ic_call.xml" value="0.2515" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/drawable/ic_info.xml" value="0.2515" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2515" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/drawable/ic_mmmm.xml" value="0.1095" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/drawable/ic_videocam.xml" value="0.2515" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/drawable/shapebutton.xml" value="0.22" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/activity_detail.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/activity_detail_v.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/activity_main2.xml" value="0.2791666666666667" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/activity_main3.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/activity_main_asia.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/activity_main_astralia.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/activity_main_city.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/activity_main_country.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/activity_main_earupe.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/activity_main_info.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/activity_main_norm.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/activity_main_north.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/activity_main_south.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/activity_main_vr.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/activity_mainintro.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/activity_mainq.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/activity_mainqq.xml" value="0.25" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/country.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/country_res.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/food.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/fregmant_chat.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/fregmant_email.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/fregmant_main.xml" value="0.25" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/fregmant_massage.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/fregmant_phone.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/fregmant_video.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/fregmant_vr.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/nav_header.xml" value="0.2791666666666667" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/toolbar.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/layout/video.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/96560/AndroidStudioProjects/Distination/app/src/main/res/menu/drawer_menu.xml" value="0.2791666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

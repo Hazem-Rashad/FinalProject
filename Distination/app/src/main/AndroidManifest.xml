@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.distination">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Distination">
+        <activity
+            android:name=".DetailActivityV"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityNorm"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityVR"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitySouth"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityNorth"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityEarupe"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityAstralia"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityAsia"
+            android:exported="false" />
+        <activity
+            android:name=".DetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityAfrica"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityQ"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityMain"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityIntro"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

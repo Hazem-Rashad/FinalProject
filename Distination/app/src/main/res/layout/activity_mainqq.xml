@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <Button
+        android:id="@+id/north"
+        android:layout_width="wrap_content"
+        android:layout_height="112dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="146dp"
+        android:layout_marginTop="487dp"
+        android:layout_marginEnd="148dp"
+        android:background="@drawable/shapebutton"
+        android:text="أمريكا الشمالية"
+        android:textSize="25dp" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/animationView"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/newww" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="99dp"
+        android:layout_marginEnd="13dp"
+        android:text="اختر القارة التي تريدها رجاءا:"
+        android:textColor="@color/black"
+        android:textSize="25dp" />
+
+    <Button
+        android:id="@+id/astralia"
+        android:layout_width="117dp"
+        android:layout_height="115dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="6dp"
+        android:layout_marginTop="271dp"
+        android:layout_marginEnd="288dp"
+        android:background="@drawable/shapebutton"
+        android:text="أستراليا"
+        android:textSize="25dp" />
+
+    <Button
+        android:id="@+id/africa"
+        android:layout_width="117dp"
+        android:layout_height="115dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="146dp"
+        android:layout_marginEnd="151dp"
+        android:background="@drawable/shapebutton"
+        android:text="أفريقيا"
+        android:textSize="25dp" />
+
+    <Button
+        android:id="@+id/south"
+        android:layout_width="117dp"
+        android:layout_height="115dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="288dp"
+        android:layout_marginTop="273dp"
+        android:layout_marginEnd="7dp"
+        android:background="@drawable/shapebutton"
+        android:text="أمريكا الجنوبية"
+        android:textSize="25dp" />
+
+    <Button
+        android:id="@+id/asia"
+        android:layout_width="wrap_content"
+        android:layout_height="111dp"
+        android:layout_below="@+id/astralia"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="34dp"
+        android:layout_marginEnd="289dp"
+        android:background="@drawable/shapebutton"
+        android:text="آسيا"
+        android:textSize="25dp" />
+
+    <Button
+        android:id="@+id/europe"
+        android:layout_width="wrap_content"
+        android:layout_height="114dp"
+        android:layout_below="@+id/south"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="290dp"
+        android:layout_marginTop="29dp"
+        android:layout_marginEnd="4dp"
+        android:background="@drawable/shapebutton"
+        android:text="أوروبا "
+        android:textSize="25dp" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/earthh"
+        android:layout_width="305dp"
+        android:layout_height="275dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="53dp"
+        android:layout_marginTop="260dp"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/earth" />
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/nav_viwe"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:background="#18E5FF"
+        app:itemRippleColor="@color/white"
+        app:menu="@menu/drawer_menu">
+
+    </com.google.android.material.bottomnavigation.BottomNavigationView>
+
+
+</RelativeLayout>
+
