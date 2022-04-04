@@ -33,6 +33,8 @@ public class MainActivityAfrica extends AppCompatActivity {
         Countries tanzania = new Countries("تنزانيا", "شيلينغ تينزاني", R.drawable.tinzania,R.drawable.tinzaniamap,"soon" );
 
 
+        
+
 
 
         countries.add(egypt);
