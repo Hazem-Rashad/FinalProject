@@ -82,6 +82,8 @@ public class MainActivityQ extends AppCompatActivity {
             }
         });
 
+        //
+
 
         BottomNavigationView bottomNavigationView = findViewById(R.id.nav_viwe);
 
